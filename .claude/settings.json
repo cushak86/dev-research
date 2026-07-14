@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "madev-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "cushak86/madev"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "madev@madev-marketplace": true
+  }
+}
