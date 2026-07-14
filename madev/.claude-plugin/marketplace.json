@@ -1,0 +1,31 @@
+{
+  "name": "madev-marketplace",
+  "owner": {
+    "name": "suhun.lee",
+    "email": "suhun.lee59@gmail.com"
+  },
+  "metadata": {
+    "description": "멀티에이전트 오케스트레이션 규율을 얹은 규율 있는 AI 개발회사 플러그인 마켓플레이스",
+    "version": "1.4.0"
+  },
+  "plugins": [
+    {
+      "name": "madev",
+      "source": "./madev",
+      "description": "대표(마스터)+감사팀+기획·마케팅·SEO는 Claude opus, 개발·CS는 codex(GPT), 디자인·콘텐츠는 gemini로 실행하는 이종 백엔드 회사(fail-open). 업무분배 라우팅, 가동 게이트, 작업폴더 기억, 3중 증거검수, 세션 재개에 더해 규율 훅(비차단 넛지)·업종 프리셋 온보딩·로그 헬퍼를 내장.",
+      "version": "1.4.0",
+      "author": {
+        "name": "suhun.lee"
+      },
+      "keywords": [
+        "agents",
+        "orchestration",
+        "multi-agent",
+        "codex",
+        "gemini",
+        "automation",
+        "korean"
+      ]
+    }
+  ]
+}

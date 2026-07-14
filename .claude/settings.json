@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "madev-marketplace": {
+      "source": {
+        "source": "directory",
+        "path": "./madev"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "madev@madev-marketplace": true
+  }
+}

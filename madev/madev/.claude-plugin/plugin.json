@@ -1,0 +1,17 @@
+{
+  "name": "madev",
+  "description": "규율 있는 AI 개발회사 — 대표·감사팀·기획·마케팅·SEO는 Claude opus, 개발·CS는 codex(GPT), 디자인·콘텐츠는 gemini로 실행하는 이종 백엔드 회사(fail-open). 업무분배·가동게이트·작업폴더 기억·증거검수·세션재개에 더해 규율 훅(비차단 넛지)·업종 프리셋 온보딩·로그 헬퍼(/madev:log)를 갖춘 오케스트레이션 회사. /madev:setup 으로 시작하세요.",
+  "version": "1.4.0",
+  "author": {
+    "name": "suhun.lee",
+    "email": "suhun.lee59@gmail.com"
+  },
+  "keywords": [
+    "agent-team",
+    "orchestration",
+    "multi-agent",
+    "codex",
+    "gemini",
+    "korean"
+  ]
+}

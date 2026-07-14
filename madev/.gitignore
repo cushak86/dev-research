@@ -1,0 +1,11 @@
+# secrets / local
+*.env
+!*.env.example
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# deps
+node_modules/
